@@ -1,35 +1,24 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# LÃ³pez Manuel
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola, me llamo **Manuel** y este es mi cuarto cuatrimestre en esta carrera(Desarrollo de Videojuegos).
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Por ahora la organizaciÃ³n de la carrera es bastante mala, algunas de las materias estan muy buenas.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
+Me incribi en la carrera ya que un amigo se iba a inscribir y me inspiro a hacerlo tambien.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Pienso seguir aprendiendo de programacion para conseguir mejores trabajos y algun dia trabajar en el extranjero.
+
+Siempre me gusto la computacion y los videojuegos,tanto que empece a aprender por cuenta propia y a armar proyectos para practicar. 
+
+A fin del aÃ±o pasado con un grupo de compaÃ±eros muy copados hicimos un juego entero llamado [Protocolo Andromeda](https://ultragames007.itch.io/protocolo-andromeda) . Los invito a jugarlo!
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## Mis gustos
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+- Me encantan ver series, pelis y anime (Aguante Psych)
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+- Me gustan mucho los videojuegos y jugar con amigos.
+
+- Me gustan los perros ! (Tenemos 2)
